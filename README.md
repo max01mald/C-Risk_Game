@@ -5,6 +5,7 @@ This is a C++ implemented game of Risk.
 There are 16 Classes:
   
   Action Classes:
+    
     Card:
       Type to determine the amount of Reinforcements 
     
@@ -18,6 +19,7 @@ There are 16 Classes:
       Double Dice with random number generator 
     
   Structuring Classes:
+    
     Map:
       Holds the different Continents and Countries in one Object
         
@@ -31,6 +33,7 @@ There are 16 Classes:
       Class which is tasked with IO to create the Country graph from a txt file
   
   Runtime Classes:
+    
     Player:
       Determines the unique user and their progress in the game
     
@@ -43,6 +46,7 @@ There are 16 Classes:
     Tournament: Creates multiple games with pre-programmed player casts
   
   AI Classes:
+    
     Human:
       Base Class which allows a user to play the game
       
