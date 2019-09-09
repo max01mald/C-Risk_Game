@@ -1,0 +1,16 @@
+﻿  Human.cpp
+Human.cpp(29): warning C4018: '<': no coinciden signed/unsigned
+Human.cpp(65): warning C4018: '<': no coinciden signed/unsigned
+Human.cpp(282): warning C4018: '<': no coinciden signed/unsigned
+Human.cpp(284): warning C4018: '<': no coinciden signed/unsigned
+Human.cpp(324): warning C4018: '<': no coinciden signed/unsigned
+Human.cpp(335): warning C4018: '<': no coinciden signed/unsigned
+Human.cpp(367): warning C4018: '<': no coinciden signed/unsigned
+Human.cpp(409): warning C4018: '<': no coinciden signed/unsigned
+Human.cpp(455): warning C4018: '<': no coinciden signed/unsigned
+Human.cpp(544): warning C4018: '<': no coinciden signed/unsigned
+Human.cpp(802): warning C4018: '<': no coinciden signed/unsigned
+Human.cpp(804): warning C4018: '<': no coinciden signed/unsigned
+Human.cpp(883): warning C4018: '<': no coinciden signed/unsigned
+Human.cpp(885): warning C4018: '<': no coinciden signed/unsigned
+  A3Test.vcxproj -> C:\Users\Javier\Desktop\A3_team11\A3_Part1\Debug\A3Test.exe

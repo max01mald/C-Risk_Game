@@ -1,0 +1,27 @@
+#include "game.h"
+
+
+int main()
+{
+	
+	Map board;
+	
+	start match;
+	
+	
+	board = match.MapStartUp();
+	
+	match = match.PlayerStartUp();
+	
+	game risk("Ass2", match);
+	
+	risk.RandomCountries(board);
+	
+	risk.OrderCountries(board);
+	
+	risk.AllocateCountries(board);
+
+
+
+
+}
